@@ -1,0 +1,21 @@
+{
+  "general":"General",
+  "business":"Business",
+  "media":"Media",
+  "profile": "Profile",
+  "warning": "Warning",
+  "doYouWantToLogout": "Do You Want To Logout?",
+  "yes": "Yes",
+  "no": "No",
+  "selectLanguage":"Select Country",
+  "country":"Country",
+  "logout":"Logout",
+  "businessError": "Error Fetching In Business News",
+  "generalError": "Error Fetching In General News",
+  "mediaError": "Error Fetching In Media News",
+  "privacyPolicy": "Privacy Policy",
+  "accountDetail":"Account",
+  "contactUs":"Contact Us",
+  "aboutUs":"About Us",
+  "weather":"Weather"
+}

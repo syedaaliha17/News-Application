@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "584322018680",
+    "project_id": "newsread-81940",
+    "storage_bucket": "newsread-81940.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584322018680:android:359362230c365c5c722c8d",
+        "android_client_info": {
+          "package_name": "com.NewsRead"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "584322018680-5g4dl3c5ph1hkqismpumjbq33d3ertqg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJC7FVGONl0f3iEKGPSTUbQsaDTTYVDbY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "584322018680-5g4dl3c5ph1hkqismpumjbq33d3ertqg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

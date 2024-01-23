@@ -1,0 +1,21 @@
+{
+  "general":"General",
+  "business":"Negocio",
+  "media":"Medios",
+  "profile": "Perfil",
+  "warning": "Advertencia",
+  "doYouWantToLogout": "Quiere cerrar la sesión",
+  "yes": "Si",
+  "no": "No",
+  "selectLanguage":"Seleccionar País",
+  "country":"País",
+  "logout":"Cerrar sesión",
+  "businessError": "Error al obtener noticias comerciales",
+  "generalError": "Error al obtener noticias generales",
+  "mediaError": "Error al obtener noticias en los medios",
+  "privacyPolicy":"Política de Privacidad",
+  "accountDetail":"Cuenta",
+  "contactUs":"Contacta con Nosotras",
+  "aboutUs":"Sobre Nosotras",
+  "weather":"Clima"
+}
